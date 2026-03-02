@@ -1,6 +1,8 @@
+version: '3.8'
+
 services:
   postgres:
-    image: postgres
+    image: postgres:15
     container_name: postgres_db
     environment:
       POSTGRES_USER: admin
@@ -12,14 +14,14 @@ services:
       - postgres_data:/var/lib/postgresql/data
     restart: always
 
-
   metabase:
-    image: metabase/metabase:latest
+    image: metabase/metabase
     container_name: metabase
-    depends_on:
-      - postgres
     ports:
       - "3001:3000"
+    depends_on:
+      - postgres
+    restart: always
 
 volumes:
   postgres_data:
