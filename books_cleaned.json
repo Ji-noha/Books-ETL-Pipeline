@@ -1,0 +1,584 @@
+[
+  {
+    "title":"Social and personality development",
+    "author_name":"David R. Shaffer",
+    "first_publish_year":1979,
+    "language":"eng"
+  },
+  {
+    "title":"Mein Kampf",
+    "author_name":"Adolf Hitler",
+    "first_publish_year":1922,
+    "language":"tam"
+  },
+  {
+    "title":"The Art of Loving",
+    "author_name":"Erich Fromm",
+    "first_publish_year":1956,
+    "language":"dut"
+  },
+  {
+    "title":"Het Achterhuis",
+    "author_name":"Anne Frank",
+    "first_publish_year":1944,
+    "language":"ben"
+  },
+  {
+    "title":"Think and Grow Rich",
+    "author_name":"Napoleon Hill",
+    "first_publish_year":1937,
+    "language":"tam"
+  },
+  {
+    "title":"The Power of Your Subconscious Mind",
+    "author_name":"Joseph Murphy",
+    "first_publish_year":1963,
+    "language":"spa"
+  },
+  {
+    "title":"As a man thinketh",
+    "author_name":"James Allen",
+    "first_publish_year":1902,
+    "language":"tam"
+  },
+  {
+    "title":"Laws, etc",
+    "author_name":"Great Britain.",
+    "first_publish_year":1691,
+    "language":"ang"
+  },
+  {
+    "title":"Bible",
+    "author_name":"Bible",
+    "first_publish_year":1200,
+    "language":"ukr"
+  },
+  {
+    "title":"The Yellow Wallpaper",
+    "author_name":"Charlotte Perkins Gilman",
+    "first_publish_year":1892,
+    "language":"eng"
+  },
+  {
+    "title":"Ὀδύσσεια",
+    "author_name":"Όμηρος",
+    "first_publish_year":1488,
+    "language":"arm"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Henry Clay Smith",
+    "first_publish_year":1968,
+    "language":"eng"
+  },
+  {
+    "title":"Dibs in Search of Self",
+    "author_name":"Virginia M. Axline",
+    "first_publish_year":1964,
+    "language":"eng"
+  },
+  {
+    "title":"Educational psychology",
+    "author_name":"Anita Woolfolk Hoy",
+    "first_publish_year":1987,
+    "language":"eng"
+  },
+  {
+    "title":"Principles of marketing",
+    "author_name":"Philip Kotler",
+    "first_publish_year":1980,
+    "language":"und"
+  },
+  {
+    "title":"Financial audit",
+    "author_name":"United States. General Accounting Office",
+    "first_publish_year":1943,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Elizabeth B. Hurlock",
+    "first_publish_year":1977,
+    "language":"Unknown"
+  },
+  {
+    "title":"Mishneh Torah (Codification of Talmudic laws)",
+    "author_name":"Moses Maimonides",
+    "first_publish_year":1470,
+    "language":"spa"
+  },
+  {
+    "title":"Art Through the Ages",
+    "author_name":"Helen Gardner",
+    "first_publish_year":1926,
+    "language":"eng"
+  },
+  {
+    "title":"Child development",
+    "author_name":"Laura E. Berk",
+    "first_publish_year":1989,
+    "language":"und"
+  },
+  {
+    "title":"Les damnés de la terre",
+    "author_name":"Frantz Fanon",
+    "first_publish_year":1961,
+    "language":"ger"
+  },
+  {
+    "title":"The developing person through the life span",
+    "author_name":"Kathleen Stassen Berger",
+    "first_publish_year":1983,
+    "language":"eng"
+  },
+  {
+    "title":"Biology",
+    "author_name":"Cecie Starr",
+    "first_publish_year":1991,
+    "language":"eng"
+  },
+  {
+    "title":"Marketing",
+    "author_name":"Philip Kotler",
+    "first_publish_year":1987,
+    "language":"eng"
+  },
+  {
+    "title":"How to Develop Self-confidence (Personal Development)",
+    "author_name":"Dale Carnegie",
+    "first_publish_year":1956,
+    "language":"rus"
+  },
+  {
+    "title":"Kunst und künstler",
+    "author_name":"Otto Rank",
+    "first_publish_year":1932,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Jerome Kagan",
+    "first_publish_year":1971,
+    "language":"eng"
+  },
+  {
+    "title":"A primer of Freudian psychology",
+    "author_name":"Calvin S. Hall",
+    "first_publish_year":1954,
+    "language":"eng"
+  },
+  {
+    "title":"Washington Square",
+    "author_name":"Henry James",
+    "first_publish_year":1880,
+    "language":"eng"
+  },
+  {
+    "title":"How to Stop Worrying and Start Living",
+    "author_name":"Dale Carnegie",
+    "first_publish_year":1936,
+    "language":"cze"
+  },
+  {
+    "title":"Social learning and personality development",
+    "author_name":"Albert Bandura",
+    "first_publish_year":1963,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Lucy Rau Ferguson",
+    "first_publish_year":1969,
+    "language":"eng"
+  },
+  {
+    "title":"The world of psychology",
+    "author_name":"Samuel E. Wood",
+    "first_publish_year":1992,
+    "language":"eng"
+  },
+  {
+    "title":"Anarchism and Other Essays",
+    "author_name":"Emma Goldman",
+    "first_publish_year":1910,
+    "language":"eng"
+  },
+  {
+    "title":"The World Is Flat -A Brief History OF THE TWENTY-FIRST CENTURY",
+    "author_name":"Thomas L. Friedman",
+    "first_publish_year":2005,
+    "language":"heb"
+  },
+  {
+    "title":"Personal development. --",
+    "author_name":"Gerald Webster",
+    "first_publish_year":1970,
+    "language":"Unknown"
+  },
+  {
+    "title":"Middlesex",
+    "author_name":"Jeffrey Eugenides",
+    "first_publish_year":2002,
+    "language":"spa"
+  },
+  {
+    "title":"Weekly Personality Development",
+    "author_name":"Mangesh Vitthal Koli",
+    "first_publish_year":2016,
+    "language":"mar"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Debbie Hindle",
+    "first_publish_year":1999,
+    "language":"eng"
+  },
+  {
+    "title":"Personality",
+    "author_name":"Harry Collins Spillman",
+    "first_publish_year":1919,
+    "language":"eng"
+  },
+  {
+    "title":"PERSONALITY DEVELOPMENT",
+    "author_name":"VALERIE SIMANOWITZ",
+    "first_publish_year":2003,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Elizabeth Bergner Hurlock",
+    "first_publish_year":1973,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"James Sydney Slotkin",
+    "first_publish_year":1952,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Lucy Ray Ferguson",
+    "first_publish_year":1970,
+    "language":"eng"
+  },
+  {
+    "title":"Social & personality development",
+    "author_name":"David Shaffer",
+    "first_publish_year":1988,
+    "language":"eng"
+  },
+  {
+    "title":"Human resource management",
+    "author_name":"R. Wayne Mondy",
+    "first_publish_year":1990,
+    "language":"eng"
+  },
+  {
+    "title":"Marriage & personal development",
+    "author_name":"Rubin Blanck",
+    "first_publish_year":1968,
+    "language":"eng"
+  },
+  {
+    "title":"Handbook of personality development",
+    "author_name":"Todd D. Little",
+    "first_publish_year":2006,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development with the Tarot",
+    "author_name":"Catherine Summers",
+    "first_publish_year":2002,
+    "language":"eng"
+  },
+  {
+    "title":"Your Erroneous Zones",
+    "author_name":"Wayne W. Dyer",
+    "first_publish_year":1976,
+    "language":"chi"
+  },
+  {
+    "title":"Psychology",
+    "author_name":"Carole Wade",
+    "first_publish_year":1987,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Ale Castillo",
+    "first_publish_year":2020,
+    "language":"eng"
+  },
+  {
+    "title":"On Becoming a Person",
+    "author_name":"Rogers, Carl R.",
+    "first_publish_year":1961,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development Group",
+    "author_name":"Chris Rose",
+    "first_publish_year":2008,
+    "language":"eng"
+  },
+  {
+    "title":"Personal development programme",
+    "author_name":"University of East Anglia.",
+    "first_publish_year":1992,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Genaro Oneil",
+    "first_publish_year":2016,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development in college. --",
+    "author_name":"Peter Madison",
+    "first_publish_year":1969,
+    "language":"eng"
+  },
+  {
+    "title":"Gifts differing",
+    "author_name":"Isabel Briggs Myers",
+    "first_publish_year":1980,
+    "language":"eng"
+  },
+  {
+    "title":"Practical Personal Development",
+    "author_name":"Jim Stephens",
+    "first_publish_year":2020,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Debbie Hindle",
+    "first_publish_year":1999,
+    "language":"eng"
+  },
+  {
+    "title":"Coach's Coach",
+    "author_name":"Alison Hardingham",
+    "first_publish_year":2004,
+    "language":"eng"
+  },
+  {
+    "title":"Practical Personal Development",
+    "author_name":"Sylvio Buggisch",
+    "first_publish_year":2018,
+    "language":"eng"
+  },
+  {
+    "title":"Need for Personal Developement",
+    "author_name":"Eva scott",
+    "first_publish_year":2014,
+    "language":"eng"
+  },
+  {
+    "title":"Practical Personal Development",
+    "author_name":"Paul Harthan",
+    "first_publish_year":2013,
+    "language":"eng"
+  },
+  {
+    "title":"A theory of personality development",
+    "author_name":"Luciano L'Abate",
+    "first_publish_year":1994,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Sorin Dumitrascu",
+    "first_publish_year":2021,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development in adulthood",
+    "author_name":"Lawrence S. Wrightsman",
+    "first_publish_year":1988,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Sydney Burgess",
+    "first_publish_year":2022,
+    "language":"eng"
+  },
+  {
+    "title":"Personal development in counsellor training",
+    "author_name":"Hazel Johns",
+    "first_publish_year":1996,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development for work",
+    "author_name":"Harold R. Wallace",
+    "first_publish_year":1989,
+    "language":"eng"
+  },
+  {
+    "title":"A course of instruction in personal magnetism",
+    "author_name":"Charles V Hutchen",
+    "first_publish_year":1917,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development Advice",
+    "author_name":"Amine MANSOURI",
+    "first_publish_year":2021,
+    "language":"eng"
+  },
+  {
+    "title":"Personality; development and assessment",
+    "author_name":"Charles Maxfield Harsh",
+    "first_publish_year":1950,
+    "language":"eng"
+  },
+  {
+    "title":"Personal development plans",
+    "author_name":"Penny Tamkin",
+    "first_publish_year":1995,
+    "language":"Unknown"
+  },
+  {
+    "title":"Dictionary of personal development",
+    "author_name":"Paul Tosey",
+    "first_publish_year":2002,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development for work",
+    "author_name":"Allien R. Russon",
+    "first_publish_year":1981,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Leon Rappoport",
+    "first_publish_year":1972,
+    "language":"eng"
+  },
+  {
+    "title":"The collected works of C.G. Jung",
+    "author_name":"Carl Gustav Jung",
+    "first_publish_year":1953,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Greg S. Reid",
+    "first_publish_year":2024,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Swami Vivekananda",
+    "first_publish_year":2009,
+    "language":"Unknown"
+  },
+  {
+    "title":"Personality development through speech",
+    "author_name":"Bryng Bryngelson",
+    "first_publish_year":1964,
+    "language":"eng"
+  },
+  {
+    "title":"Psychodynamics of personality development",
+    "author_name":"William Joseph Devlin",
+    "first_publish_year":1965,
+    "language":"eng"
+  },
+  {
+    "title":"Personality; development and assessment",
+    "author_name":"Charles Maxfield Harsh",
+    "first_publish_year":1950,
+    "language":"Unknown"
+  },
+  {
+    "title":"Socialization and personality development",
+    "author_name":"Michael E. Lamb",
+    "first_publish_year":1983,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Jack Martin",
+    "first_publish_year":1983,
+    "language":"eng"
+  },
+  {
+    "title":"Personal development",
+    "author_name":"Unknown",
+    "first_publish_year":1986,
+    "language":"eng"
+  },
+  {
+    "title":"Implementation of the Helsinki accords",
+    "author_name":"United States. Congress. Commission on Security and Cooperation in Europe",
+    "first_publish_year":1982,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development and psychopathology",
+    "author_name":"Cameron, Norman",
+    "first_publish_year":1963,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Unknown",
+    "first_publish_year":1996,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Deepa, H., 1st",
+    "first_publish_year":2021,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Sophia Grahan",
+    "first_publish_year":2010,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Michael Burks",
+    "first_publish_year":2014,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Ravi Jain",
+    "first_publish_year":2016,
+    "language":"eng"
+  },
+  {
+    "title":"Personality Development",
+    "author_name":"Elizabeth B.Hurlock",
+    "first_publish_year":1974,
+    "language":"eng"
+  },
+  {
+    "title":"Personality development",
+    "author_name":"Unknown",
+    "first_publish_year":1970,
+    "language":"eng"
+  },
+  {
+    "title":"Personal development",
+    "author_name":"Dick Carlson",
+    "first_publish_year":1933,
+    "language":"eng"
+  },
+  {
+    "title":"Personal Development",
+    "author_name":"Unknown",
+    "first_publish_year":2012,
+    "language":"Unknown"
+  }
+]
