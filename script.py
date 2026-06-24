@@ -23,7 +23,7 @@ if x.status_code == 200:
     if 'docs' in json_data:
         data = json_data['docs']
     else:
-        print("⚠️ docs not found")
+        print(" docs not found")
         data = []
 else:
     print("Request failed")
