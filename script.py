@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 import os
 
 
-#API fails → pipeline continues safely ✅
+#API fails --> pipeline continues safely 
 url = "https://openlibrary.org/search.json?q=personal+development"
 
 headers = {
